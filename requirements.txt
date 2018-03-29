@@ -1,5 +1,5 @@
-matplotlib==2.0.2
+matplotlib
 ipywidgets==7.1
-pandas==0.22.0
+pandas
 IPython==6.1
 collections==3.3
