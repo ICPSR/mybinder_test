@@ -1,0 +1,4 @@
+matplotlib
+ipywidgets==7.1
+pandas
+IPython==6.1
