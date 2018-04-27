@@ -1,4 +1,4 @@
 matplotlib
-ipywidgets
+ipywidgets==7.1
 pandas
-IPython
+IPython==6.1
